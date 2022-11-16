@@ -1,0 +1,26 @@
+{
+    "editor.accessibilitySupport": "off",
+    "go.autocompleteUnimportedPackages": true,
+    "audioCues.lineHasError": "on",
+    "markdown.validate.enabled": true,
+    "problems.showCurrentInStatus": true,
+    "files.autoSave": "afterDelay",
+    "go.installDependenciesWhenBuilding": true,
+    "go.inlayHints.functionTypeParameters": true,
+    "go.inlayHints.parameterNames": true,
+    "go.toolsEnvVars": {
+    
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.inlayHints.compositeLiteralTypes": true,
+    "go.inlayHints.constantValues": true,
+    "go.editorContextMenuCommands": {
+        "addTags": false,
+        "generateTestForFunction": false,
+        "generateTestForPackage": true
+    },
+    "go.inlayHints.assignVariableTypes": true,
+    "go.gotoSymbol.includeImports": true
+}
