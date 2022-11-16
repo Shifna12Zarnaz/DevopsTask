@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+data:
+  DB_HOST: tcp(10.106.103.8:3306)
+  DB_USERNAME: root
+  DB_PASSWORD: shifna
+  DB_NAME: newdb
